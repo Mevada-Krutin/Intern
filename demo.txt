@@ -1,7 +1,4 @@
 hello world
 abcdefg
-<<<<<<< HEAD
 sjkel
-=======
 ahmedabad
->>>>>>> 8b0f6e9386fa9bc9c77312cbb924dc5b8212e260
